@@ -1,29 +1,41 @@
-name: darkstuff productions
-favicon: null
-layout_spectrum: 0.94109
-typography_spectrum: 0.03441938431933522
 title: darkstuff productions
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.5849137587938458
+  brandStrength: 0.8136201
+  lightness: 0.9012540632393211
+  brandColors:
+    - '#525254'
+    - '#363739'
+    - '#C0B8A8'
+    - '#F2E2CB'
+    - '#807970'
+  rhythmicContrast: 0.9931906636338681
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: darkstuff productions
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#010101'
-    - '#6262a8'
-    - '#302e31'
-    - '#d1c6d6'
-    - '#fff3e8'
-  brandStrength: 0.49235118669457734
-  lightness: 0.9012540632393211
-  saturation: 0.5849137587938458
-  rhythmicContrast: 0.9931906636338681
-purpose: []
+typography_spectrum: 0.03441938431933522
+layout_spectrum: 0.94109
