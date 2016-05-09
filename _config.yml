@@ -1,0 +1,28 @@
+name: darkstuff productions
+favicon: null
+layout_spectrum: 0.3846942391246557
+typography_spectrum: 0.03441938431933522
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.49235118669457734
+  lightness: 0.9012540632393211
+  saturation: 0.5849137587938458
+  rhythmicContrast: 0.9931906636338681
+purpose: []
