@@ -1,5 +1,8 @@
+name: darkstuff productions
+favicon: null
+layout_spectrum: 0.94109
+typography_spectrum: 0.562724
 title: darkstuff productions
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.5849137587938458
-  brandStrength: 0.8136201
-  rhythmicContrast: 0.9931906636338681
-  brandColors:
-    - '#525254'
-    - '#363739'
-    - '#C0B8A8'
-    - '#F2E2CB'
-    - '#807970'
-  lightness: 0.9012540632393211
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: darkstuff productions
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.562724
-layout_spectrum: 0.94109
+color:
+  brandColors:
+    - '#ffffff'
+    - '#b0b0b0'
+    - '#808080'
+    - '#4e4e4e'
+    - '#1b1b1b'
+  brandStrength: 0.8136201
+  lightness: 0.9012540632393211
+  saturation: 0.5849137587938458
+  rhythmicContrast: 0.9931906636338681
+purpose: []
