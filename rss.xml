@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[darkstuff productions]]></title>
         <description><![CDATA[darkstuff productions]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://darkstuffproductions.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 19:36:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 31 May 2016 16:35:05 GMT</lastBuildDate>
+        <atom:link href="http://darkstuffproductions.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1659a78c-f77b-4044-8317-8db147cf60c3.jpg">]]></description>
+            <link>http://darkstuffproductions.com/darkstuff-charted-the-death-of-rave-at-the-tobacco-factory/index.html</link>
+            <guid isPermaLink="false">84074c88-6ff8-4724-bbcd-e7f4bf5d64e2</guid>
+            <pubDate>Tue, 31 May 2016 16:34:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d205d4a-8fbd-42c9-8dc0-16b291672efb.jpg">]]></description>
-            <link>undefinede800ba25-9a31-448e-a9f3-4576bca86c77/index.html</link>
+            <link>http://darkstuffproductions.com/e800ba25-9a31-448e-a9f3-4576bca86c77/index.html</link>
             <guid isPermaLink="false">e800ba25-9a31-448e-a9f3-4576bca86c77</guid>
             <pubDate>Tue, 10 May 2016 19:36:06 GMT</pubDate>
         </item>
