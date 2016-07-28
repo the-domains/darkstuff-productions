@@ -1,7 +1,7 @@
 name: darkstuff productions
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.562724
+layout_spectrum: 0.2405803045257926
+typography_spectrum: 0.5462608328089118
 title: darkstuff productions
 collections:
   - index:
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#b0b0b0'
-    - '#808080'
-    - '#4e4e4e'
-    - '#1b1b1b'
-  brandStrength: 0.8136201
-  lightness: 0.9012540632393211
-  saturation: 0.5849137587938458
-  rhythmicContrast: 0.9931906636338681
+    - '#B4AF91'
+    - '#787746'
+    - '#40411E'
+    - '#32331D'
+    - '#C03000'
+  brandStrength: 0.942686035297811
+  lightness: 0.5395924989134073
+  saturation: 0.9101572085637599
+  rhythmicContrast: 0.2656375535298139
 purpose: []
