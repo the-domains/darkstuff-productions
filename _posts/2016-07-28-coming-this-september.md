@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-07-28T10:50:55.422Z'
+datePublished: '2016-07-28T11:01:35.098Z'
+sourcePath: _posts/2016-07-28-coming-this-september.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7da71eb9-ec70-4199-8bd8-1954a8728329.jpg
 author: []
 via: {}
-dateModified: '2016-07-28T10:42:19.927Z'
+dateModified: '2016-07-28T11:01:34.785Z'
 title: Coming this September
 publisher: {}
 description: >-
   Our next production HAPPILY.. NEVER.. AFTER sets sail between the 19 - 23
   September @ 7.30pm aboard Bristol Ferry's MATILDA
 starred: false
-sourcePath: _posts/2016-07-28-coming-this-september.md
 inFeed: true
 hasPage: false
 inNav: false
