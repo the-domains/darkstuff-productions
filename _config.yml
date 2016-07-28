@@ -1,7 +1,7 @@
 name: darkstuff productions
 favicon: null
-layout_spectrum: 0.2405803045257926
-typography_spectrum: 0.5462608328089118
+layout_spectrum: 0.3872740650549531
+typography_spectrum: 0.5003774783108383
 title: darkstuff productions
 collections:
   - index:
@@ -34,8 +34,8 @@ color:
     - '#40411E'
     - '#32331D'
     - '#C03000'
-  brandStrength: 0.942686035297811
-  lightness: 0.5395924989134073
-  saturation: 0.9101572085637599
-  rhythmicContrast: 0.2656375535298139
+  brandStrength: 0.709332553204149
+  lightness: 0.17849278636276722
+  saturation: 0.22662052139639854
+  rhythmicContrast: 0.7963357265107334
 purpose: []
