@@ -24,10 +24,7 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: HAPPILY…NEVER…AFTER…
-    id: d6ae8886-d274-48d8-8713-273a0f44f2de
-    type: content
+navigation: []
 favicon: null
 collections:
   - index:
