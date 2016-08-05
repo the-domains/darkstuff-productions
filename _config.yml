@@ -1,8 +1,34 @@
+typography_spectrum: 0.5003774783108383
+color:
+  brandColors:
+    - '#B4AF91'
+    - '#787746'
+    - '#40411E'
+    - '#32331D'
+    - '#C03000'
+  brandStrength: 0.709332553204149
+  lightness: 0.17849278636276722
+  saturation: 0.22662052139639854
+  rhythmicContrast: 0.7963357265107334
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.3872740650549531
+analytics:
+  google: null
+  facebook: null
+  twitter: null
 name: darkstuff productions
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: HAPPILY…NEVER…AFTER…
+    id: d6ae8886-d274-48d8-8713-273a0f44f2de
+    type: content
 favicon: null
-layout_spectrum: 0.8537645637989044
-typography_spectrum: 0.39119328022934496
-title: darkstuff productions
 collections:
   - index:
       path: /
@@ -15,27 +41,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#FE1212'
-    - '#17273B'
-    - '#2850FF'
-    - '#FCD906'
-    - '#4D565A'
-  brandStrength: 0.3829305307008326
-  lightness: 0.14282172033563256
-  saturation: 0.9156843179371208
-  rhythmicContrast: 0.7484537472482771
+title: darkstuff productions
 purpose: []
