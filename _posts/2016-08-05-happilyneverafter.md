@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-05T13:19:47.323Z'
+datePublished: '2016-08-05T13:55:19.647Z'
 sourcePath: _posts/2016-08-05-happilyneverafter.md
 hasPage: true
 author:
   - name: Miff Weaver Illustration
     url: 'http://cargocollective.com/miffweaver'
 via: {}
-dateModified: '2016-08-05T13:19:46.850Z'
+dateModified: '2016-08-05T13:55:19.307Z'
 title: HAPPILY…NEVER…AFTER…
 publisher: {}
 description: >-
