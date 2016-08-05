@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-05T12:08:02.749Z'
+datePublished: '2016-08-05T12:13:23.078Z'
 sourcePath: _posts/2016-08-05-happilyneverafter.md
 author:
   - name: Miff Weaver Illustration
     url: 'http://cargocollective.com/miffweaver'
 via: {}
-dateModified: '2016-08-05T12:08:02.169Z'
+dateModified: '2016-08-05T12:13:22.516Z'
 title: HAPPILY…NEVER…AFTER…
 publisher: {}
 description: >-
@@ -22,11 +22,11 @@ _type: Article
 ---
 # HAPPILY...NEVER...AFTER...
 
-* 19 Sep - 23 Sep 7.30pm
+## 19 Sep - 23 Sep 7.30pm
 
 _**Married life should be plain sailing, if you can survive the wedding reception...**_
 
-_'Immersive world building'_ VENUE Magazine on Darkstuff's Moby Dick at The Bierkeller Theatre 5 Stars
+_**'Immersive world building' **_VENUE Magazine on Darkstuff's Moby Dick at The Bierkeller Theatre \*\*\*\*\*stars
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccceb17a-241b-4d76-a962-df4e117f2413.jpg)
 
 Book tickets here
