@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-05T12:33:55.045Z'
+datePublished: '2016-08-05T12:45:05.265Z'
 sourcePath: _posts/2016-08-05-happilyneverafter.md
 author: []
 via: {}
-dateModified: '2016-08-05T12:33:54.610Z'
+dateModified: '2016-08-05T12:45:04.848Z'
 title: HAPPILY…NEVER…AFTER…
 publisher: {}
 description: >-
@@ -19,13 +19,23 @@ _type: Article
 
 ---
 # HAPPILY...NEVER...AFTER...
-![A new darkstuff production ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/651fca4d-2516-4b61-b069-37e60d0ed01e.jpg)
+![A new site specific darkstuff production for 2016](https://the-grid-user-content.s3-us-west-2.amazonaws.com/651fca4d-2516-4b61-b069-37e60d0ed01e.jpg)
 
 ## 19 Sep - 23 Sep 7.30pm
 
 _**Married life should be plain sailing, **if**you can survive the wedding reception...**_
 
 _**'Immersive world building' **_VENUE Magazine on Darkstuff's Moby Dick at The Bierkeller Theatre \*\*\*\*\*stars
+
+Monday 19th Sept - Tickets available
+
+Tuesday 20th Sept - SOLD OUT
+
+Wednesday 21st Sept -Tickets available
+
+Thursday 22nd Sept - Tickets available
+
+Friday 23rd Sept - Tickets available
 
 * BUY TICKETS HERE: https://www.tobaccofactorytheatres.com/shows/happily-never-after/
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccceb17a-241b-4d76-a962-df4e117f2413.jpg)
