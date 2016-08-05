@@ -1,9 +1,11 @@
 ---
-datePublished: '2016-08-05T12:03:46.751Z'
+datePublished: '2016-08-05T12:08:02.749Z'
 sourcePath: _posts/2016-08-05-happilyneverafter.md
-author: []
+author:
+  - name: Miff Weaver Illustration
+    url: 'http://cargocollective.com/miffweaver'
 via: {}
-dateModified: '2016-08-05T12:03:45.886Z'
+dateModified: '2016-08-05T12:08:02.169Z'
 title: HAPPILY…NEVER…AFTER…
 publisher: {}
 description: >-
@@ -27,7 +29,7 @@ _**Married life should be plain sailing, if you can survive the wedding receptio
 _'Immersive world building'_ VENUE Magazine on Darkstuff's Moby Dick at The Bierkeller Theatre 5 Stars
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccceb17a-241b-4d76-a962-df4e117f2413.jpg)
 
-Book tickets at the Tobacco Factory Theatre
+Book tickets here
 
 We would like to invite you to a water bound evening of chaos, confetti and cake aboard Bristol Ferry's MATILDA. Step aboard for a theatrical journey up the Avon as a guest at the wedding reception from hell! As the drinks flow and the speeches over-run a newlyweds' big night hits choppy waters when four attendees not only rock the boat but threaten to capsize the whole wedding reception.
 
