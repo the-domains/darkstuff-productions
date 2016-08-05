@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-05T13:14:18.448Z'
+datePublished: '2016-08-05T13:19:47.323Z'
 sourcePath: _posts/2016-08-05-happilyneverafter.md
 hasPage: true
 author:
   - name: Miff Weaver Illustration
     url: 'http://cargocollective.com/miffweaver'
 via: {}
-dateModified: '2016-08-05T13:14:17.955Z'
+dateModified: '2016-08-05T13:19:46.850Z'
 title: HAPPILY…NEVER…AFTER…
 publisher: {}
 description: >-
@@ -42,5 +42,7 @@ Friday 23rd Sept - Tickets available
 We would like to invite you to a water bound evening of chaos, confetti and cake aboard Bristol Ferry's MATILDA. Step aboard for a theatrical journey up the Avon as a guest at the wedding reception from hell! As the drinks flow and the speeches over-run a newlyweds' big night hits choppy waters when four attendees not only rock the boat but threaten to capsize the whole wedding reception.
 
 A darkly comic new play packed with drunken speeches, bad singing and some truly terrible behaviour..
+
+Darkstuff returns to Bristol with it's first production in a few years. Look out for more work over the next few months. We loves it!
 
 With thanks to the Bristol Ferry Company http://www.bristolferry.com/
