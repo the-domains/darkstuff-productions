@@ -1,20 +1,18 @@
 ---
-datePublished: '2016-08-05T12:52:19.031Z'
+datePublished: '2016-08-05T13:11:48.908Z'
 sourcePath: _posts/2016-08-05-happilyneverafter.md
 author:
   - name: Miff Weaver Illustration
     url: 'http://cargocollective.com/miffweaver'
 via: {}
-dateModified: '2016-08-05T12:52:18.554Z'
+dateModified: '2016-08-05T13:11:48.180Z'
 title: HAPPILY…NEVER…AFTER…
 publisher: {}
 description: >-
   Married life should be plain sailing, if you can survive the wedding
   reception…
-starred: false
-inFeed: true
 hasPage: true
-inNav: false
+starred: false
 url: happilyneverafter/index.html
 _context: 'http://schema.org'
 _type: Article
