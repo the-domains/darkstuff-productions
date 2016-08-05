@@ -1,11 +1,9 @@
 ---
-datePublished: '2016-08-05T12:26:28.935Z'
+datePublished: '2016-08-05T12:33:55.045Z'
 sourcePath: _posts/2016-08-05-happilyneverafter.md
-author:
-  - name: Miff Weaver Illustration
-    url: 'http://cargocollective.com/miffweaver'
+author: []
 via: {}
-dateModified: '2016-08-05T12:26:28.526Z'
+dateModified: '2016-08-05T12:33:54.610Z'
 title: HAPPILY…NEVER…AFTER…
 publisher: {}
 description: >-
@@ -21,10 +19,11 @@ _type: Article
 
 ---
 # HAPPILY...NEVER...AFTER...
+![A new darkstuff production ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/651fca4d-2516-4b61-b069-37e60d0ed01e.jpg)
 
 ## 19 Sep - 23 Sep 7.30pm
 
-_**Married life should be plain sailing, if you can survive the wedding reception...**_
+_**Married life should be plain sailing, **if**you can survive the wedding reception...**_
 
 _**'Immersive world building' **_VENUE Magazine on Darkstuff's Moby Dick at The Bierkeller Theatre \*\*\*\*\*stars
 
@@ -34,3 +33,5 @@ _**'Immersive world building' **_VENUE Magazine on Darkstuff's Moby Dick at The 
 We would like to invite you to a water bound evening of chaos, confetti and cake aboard Bristol Ferry's MATILDA. Step aboard for a theatrical journey up the Avon as a guest at the wedding reception from hell! As the drinks flow and the speeches over-run a newlyweds' big night hits choppy waters when four attendees not only rock the boat but threaten to capsize the whole wedding reception.
 
 A darkly comic new play packed with drunken speeches, bad singing and some truly terrible behaviour..
+
+With thanks to the Bristol Ferry Company http://www.bristolferry.com/
