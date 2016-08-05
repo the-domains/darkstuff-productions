@@ -1,9 +1,11 @@
 ---
-datePublished: '2016-08-05T12:45:05.265Z'
+datePublished: '2016-08-05T12:52:19.031Z'
 sourcePath: _posts/2016-08-05-happilyneverafter.md
-author: []
+author:
+  - name: Miff Weaver Illustration
+    url: 'http://cargocollective.com/miffweaver'
 via: {}
-dateModified: '2016-08-05T12:45:04.848Z'
+dateModified: '2016-08-05T12:52:18.554Z'
 title: HAPPILY…NEVER…AFTER…
 publisher: {}
 description: >-
@@ -19,7 +21,6 @@ _type: Article
 
 ---
 # HAPPILY...NEVER...AFTER...
-![A new site specific darkstuff production for 2016](https://the-grid-user-content.s3-us-west-2.amazonaws.com/651fca4d-2516-4b61-b069-37e60d0ed01e.jpg)
 
 ## 19 Sep - 23 Sep 7.30pm
 
