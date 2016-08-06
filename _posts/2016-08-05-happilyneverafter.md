@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-05T13:55:19.647Z'
+datePublished: '2016-08-06T12:15:24.561Z'
 sourcePath: _posts/2016-08-05-happilyneverafter.md
 hasPage: true
 author:
   - name: Miff Weaver Illustration
     url: 'http://cargocollective.com/miffweaver'
 via: {}
-dateModified: '2016-08-05T13:55:19.307Z'
+dateModified: '2016-08-06T12:15:23.980Z'
 title: HAPPILY…NEVER…AFTER…
 publisher: {}
 description: >-
@@ -27,15 +27,15 @@ _**Married life should be plain sailing, **if**you can survive the wedding recep
 
 _**'Immersive world building' **_VENUE Magazine on Darkstuff's Moby Dick at The Bierkeller Theatre \*\*\*\*\*stars
 
-Monday 19th Sept - Tickets available
+Monday 19th Sept - _Tickets available_
 
-Tuesday 20th Sept - SOLD OUT
+Tuesday 20th Sept - **SOLD OUT**
 
-Wednesday 21st Sept -Tickets available
+Wednesday 21st Sept -_Tickets available_
 
-Thursday 22nd Sept - Tickets available
+Thursday 22nd Sept - _Tickets available_
 
-Friday 23rd Sept - Tickets available
+Friday 23rd Sept - _Tickets available_
 
 * BUY TICKETS HERE: https://www.tobaccofactorytheatres.com/shows/happily-never-after/
 
