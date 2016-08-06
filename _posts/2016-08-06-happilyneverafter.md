@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-08-06T12:51:17.599Z'
+datePublished: '2016-08-06T16:31:10.661Z'
 sourcePath: _posts/2016-08-06-happilyneverafter.md
 author:
   - name: Miff Weaver
 via: {}
-dateModified: '2016-08-06T12:51:17.197Z'
+dateModified: '2016-08-06T16:31:10.148Z'
 title: HAPPILY…NEVER…AFTER…
 publisher: {}
 description: >-
   Married life should be plain sailing, if you can survive the wedding
   reception…
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
