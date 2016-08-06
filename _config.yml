@@ -1,20 +1,20 @@
-typography_spectrum: 0.6115970285609365
+typography_spectrum: 0.5003774783108383
 color:
   brandColors:
-    - '#FE1212'
-    - '#17273B'
-    - '#2850FF'
-    - '#FCD906'
-    - '#4D565A'
-  brandStrength: 0.9899625447578728
-  lightness: 0.14195154351182282
-  saturation: 0.401080846786499
-  rhythmicContrast: 0.4622365962713957
+    - '#B4AF91'
+    - '#787746'
+    - '#40411E'
+    - '#32331D'
+    - '#C03000'
+  brandStrength: 0.709332553204149
+  lightness: 0.17849278636276722
+  saturation: 0.22662052139639854
+  rhythmicContrast: 0.7963357265107334
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.24319378309883177
+layout_spectrum: 0.3872740650549531
 analytics:
   google: null
   facebook: null
@@ -24,7 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation: []
+navigation:
+  - name: ' PICTURES'
+    id: 84f2560b-1588-42c6-8e47-c2fdfeb66534
+    type: content
 favicon: null
 collections:
   - index:
