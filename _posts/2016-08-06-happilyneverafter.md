@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-06T12:45:36.580Z'
+datePublished: '2016-08-06T12:51:17.599Z'
 sourcePath: _posts/2016-08-06-happilyneverafter.md
 author:
   - name: Miff Weaver
 via: {}
-dateModified: '2016-08-06T12:45:36.190Z'
+dateModified: '2016-08-06T12:51:17.197Z'
 title: HAPPILY…NEVER…AFTER…
 publisher: {}
 description: >-
