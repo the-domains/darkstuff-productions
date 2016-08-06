@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-06T12:43:46.686Z'
+datePublished: '2016-08-06T12:45:36.580Z'
 sourcePath: _posts/2016-08-06-happilyneverafter.md
 author:
   - name: Miff Weaver
 via: {}
-dateModified: '2016-08-06T12:43:46.265Z'
+dateModified: '2016-08-06T12:45:36.190Z'
 title: HAPPILY…NEVER…AFTER…
 publisher: {}
 description: >-
@@ -37,7 +37,7 @@ Thursday 22nd Sept - _Tickets available_
 
 Friday 23rd Sept - _Tickets available_
 
-Buy TICKETS HERE
+**Click here for tickets: **https://www.tobaccofactorytheatres.com/shows/happily-never-after/
 
 We would like to invite you to a water bound evening of chaos, confetti and cake aboard Bristol Ferry's MATILDA. Step aboard for a theatrical journey up the Avon as a guest at the wedding reception from hell! As the drinks flow and the speeches over-run a newlyweds' big night hits choppy waters when four attendees not only rock the boat but threaten to capsize the whole wedding reception.
 
