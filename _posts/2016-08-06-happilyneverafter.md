@@ -1,21 +1,24 @@
 ---
+datePublished: '2016-08-06T12:39:35.447Z'
+sourcePath: _posts/2016-08-06-happilyneverafter.md
+author:
+  - name: Miff Weaver
+via: {}
+dateModified: '2016-08-06T12:39:35.019Z'
+title: HAPPILY…NEVER…AFTER…
+publisher: {}
 description: >-
   Married life should be plain sailing, if you can survive the wedding
   reception…
-dateModified: '2016-08-06T12:30:28.093Z'
-datePublished: '2016-08-06T12:32:15.033Z'
-title: HAPPILY…NEVER…AFTER…
-author: []
-publisher: {}
-via: {}
 starred: false
-sourcePath: _posts/2016-08-06-happilyneverafter.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed5b1d1b-c445-498c-989b-1cda53e75fe7.jpg)
+
 # HAPPILY...NEVER...AFTER...
 
 ## 19 Sep - 23 Sep 7.30pm
