@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-06T16:31:10.661Z'
+datePublished: '2016-08-31T13:08:22.864Z'
 sourcePath: _posts/2016-08-06-happilyneverafter.md
 author:
   - name: Miff Weaver
 via: {}
-dateModified: '2016-08-06T16:31:10.148Z'
+dateModified: '2016-08-31T13:08:20.637Z'
 title: HAPPILY…NEVER…AFTER…
 publisher: {}
 description: >-
@@ -33,9 +33,9 @@ Tuesday 20th Sept - **SOLD OUT**
 
 Wednesday 21st Sept -_Tickets available_
 
-Thursday 22nd Sept - _Tickets available_
+Thursday 22nd Sept - _LIMITED AVAILABILITY_
 
-Friday 23rd Sept - _Tickets available_
+Friday 23rd Sept - **SOLD OUT**
 
 **Click here for tickets: **https://www.tobaccofactorytheatres.com/shows/happily-never-after/
 
