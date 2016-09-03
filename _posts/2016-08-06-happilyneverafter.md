@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-31T13:08:22.864Z'
+datePublished: '2016-08-31T15:00:32.094Z'
 sourcePath: _posts/2016-08-06-happilyneverafter.md
 author:
   - name: Miff Weaver
 via: {}
-dateModified: '2016-08-31T13:08:20.637Z'
+dateModified: '2016-08-31T15:00:25.569Z'
 title: HAPPILY…NEVER…AFTER…
 publisher: {}
 description: >-
@@ -37,12 +37,21 @@ Thursday 22nd Sept - _LIMITED AVAILABILITY_
 
 Friday 23rd Sept - **SOLD OUT**
 
-**Click here for tickets: **https://www.tobaccofactorytheatres.com/shows/happily-never-after/
+**[Click here for tickets][0].**
 
 We would like to invite you to a water bound evening of chaos, confetti and cake aboard Bristol Ferry's MATILDA. Step aboard for a theatrical journey up the Avon as a guest at the wedding reception from hell! As the drinks flow and the speeches over-run a newlyweds' big night hits choppy waters when four attendees not only rock the boat but threaten to capsize the whole wedding reception.
 
 A darkly comic new play packed with drunken speeches, bad singing and some truly terrible behaviour..
 
-Darkstuff returns to Bristol with it's first production in a few years. Look out for more work over the next few months. We loves it!
+to have the musical talents of the creative polymath entity that is Rarg on board for the ride.
+
+Darkstuff returns to Bristol with it's first production in a few years and we're joined by the musical talents of our favourite creative polymath [Rarg][1]. 
+
+Look out for more work over the next few months, we have a few new adventures to unveil. You'll find it at all here.
+
+We loves it!
 
 With thanks to the Bristol Ferry Company http://www.bristolferry.com/
+
+[0]: https://www.tobaccofactorytheatres.com/shows/happily-never-after/ "Click here for tickets"
+[1]: https://danielgreensmith.wordpress.com/about/ "Rarg"
